@@ -23,5 +23,5 @@ protobuf-build = { version = "0.15.1", default-features = false }
 [dependencies]
 bytes = { version = "1", optional = true }
 lazy_static = { version = "1", optional = true }
-prost = { version = "0.11", optional = true }
-protobuf = "2"
+prost = { version = "0.12", optional = true }
+protobuf = "3.3.0"
